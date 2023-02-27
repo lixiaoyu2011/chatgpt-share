@@ -6,33 +6,23 @@
 
   取代你的可能不是AI，而是比你更会使用AI的人。2023年被称为AI的元年一系列技术迸发，ChatGPT的出现就是曙光照亮了新时代，这可是一种全新的交流方式。为此，我建立ChatGPT花式调教指南，期望构建一部ChatGPT应用指南，希望和大家一路同行。
 
+
+
 ### 一、ChatGPT保姆级注册指南
 
 #### **注册总结** : (必看:+1: )：
 
-
-
 - [1.1ChatGPT的前世今生](./docs/chatgpt01/1.1ChatGPT的前世今生.md)
-
 - [1.2ChatGPT保姆级注册教程](./docs/chatgpt01/1.2ChatGPT保姆级注册教程.md)
-
 - [1.3ChatGPTPlus如何购买保姆级教程](./docs/chatgpt01/1.3ChatGPTPlus如何购买保姆级教程.md)
-
 - [1.4ChatGPT初次登录以及使用教程](./docs/chatgpt01/1.4ChatGPT初次登录以及使用教程.md)
-
 - [1.5NewBing的注册和使用教程](./docs/chatgpt01/1.5New Bing的注册和使用教程.md)
-
 - [1.6ChatGPT2023年最新共享账号](./docs/chatgpt01/1.6 2023年ChatGPT最新共享账号.md)
-
 - [1.7最好用的ChatGPT插件](./docs/chatgpt01/1.7 最好用的ChatGPT插件.md)
-
-  
 
 ### 二、ChatGPT使用指南
 
 #### **Prompt/Prompt进阶总结** ：(必看 :+1:)
-
-
 
 - [2.1ChatGPT Prompt使用指南](./docs/chatgpt02/2.1ChatGPT Prompt使用指南.md)
 - [2.2ChatGPT进阶之Prompt编写模式](./docs/chatgpt02/2.2ChatGPT进阶之Prompt编写模式.md)
