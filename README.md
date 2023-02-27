@@ -11,20 +11,14 @@
 #### **注册总结** : (必看:+1: )：
 
 - [1.1ChatGPT的前世今生](./docs/chatgpt01/1.1ChatGPT的前世今生.md)
-
 - [1.2ChatGPT保姆级注册教程](./docs/chatgpt01/1.2ChatGPT保姆级注册教程.md)
-
 - [1.3ChatGPTPlus如何购买保姆级教程](./docs/chatgpt01/1.3ChatGPTPlus如何购买保姆级教程.md)
-
 - [1.4ChatGPT初次登录以及使用教程](./docs/chatgpt01/1.4ChatGPT初次登录以及使用教程.md)
-
 - [1.5New Bing的注册和使用教程](./docs/chatgpt01/1.5New Bing的注册和使用教程.md)
-
 - [1.6 2023年ChatGPT最新共享账号](./docs/chatgpt01/1.6 2023年ChatGPT最新共享账号.md)
-
 - [1.7 最好用的ChatGPT插件](./docs/chatgpt01/1.7 最好用的ChatGPT插件.md)
 
-  
+
 
 ### 二、ChatGPT使用指南
 
